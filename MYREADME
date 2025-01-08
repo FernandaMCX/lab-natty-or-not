@@ -1,0 +1,21 @@
+# Título do Projeto Extremamente Aesthetic ;)
+
+## 📒 Descrição
+Este é o repositório desenvolvido durante um curso realizado na plataforma [DIO](https://dio.me)
+Projeto com o objetivo de gerar o podcast “Dados em Pauta: IA e Privacidade” utilizando ferramentas de IA.
+
+## 🤖 Tecnologias Utilizadas
+- [ChatGPT](https://chat.openai.com/) 
+- [ElevenLabs](https://beta.elevenlabs.io/)
+- [Descript](https://www.descript.com)
+
+## 🧐 Processo de Criação
+- Roteiro gerado via ChatGPT
+- Áudio gerado pela ElevenLabs
+- Discript para tratar áudio e adicionar sons de fundo
+
+## 🚀 Resultados
+Com as ferramentas de IA foi possível gerar conteúdo com agilidade e qualidade, evidenciando o quanto tais ferramentas podem otimizar processos e serem grandes aliadas na execução de tarefas.
+
+## 📚 Materiais
+ O podcast gerado durante as aulas pode ser acessado em Podcast_dados_em_pauta
